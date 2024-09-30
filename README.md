@@ -20,6 +20,7 @@ The example directory provides an example to use the SDK to send a private trans
 
 ### Config Examples
 
+```toml
 [Sender]
 ChainURL = "http"
 BlockInterval = "3s"
@@ -37,10 +38,12 @@ URL = "https://puissant-builder.48.club"
 Brand = "txboost"
 URL = "https://fastbundle-us.blocksmith.org"
 Key = "Basic xxxxx"
+```
 
 ### Run Examples
 The steps to run example are as follows
-```
+
+```shell
 make example
 cd example
 ./example --config config.toml --privatekey 1bb2....7ca7

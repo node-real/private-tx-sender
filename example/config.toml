@@ -1,0 +1,22 @@
+[Sender]
+ChainURL = "http"
+BlockInterval = "3s"
+BundleLifeNumber = 21
+
+[[Bundler.Builders]]
+Brand = "nodereal"
+URL = "https://bsc-mainnet-builder-us.nodereal.io"
+
+[[Bundler.Builders]]
+Brand = "puissant"
+URL = "https://puissant-builder.48.club"
+
+[[Bundler.Builders]]
+Brand = "txboost"
+URL = "https://fastbundle-us.blocksmith.org"
+Key = "Basic xxxxx"
+
+[[Bundler.Builders]]
+Brand = "blockrazor"
+URL = "https://blockrazor-builder-frankfurt.48.club"
+Key = "xxxxxx"

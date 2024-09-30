@@ -39,6 +39,16 @@ Brand = "txboost"
 URL = "https://fastbundle-us.blocksmith.org"
 Key = "Basic xxxxx"
 ```
+### Get Access Key of Builders
+Developers should carefully review the builder's website to understand their pricing and payment options. While some services are available free of charge, others require a paid subscription. 
+
+For premium services, users typically need to create an account and acquire an API key to gain access. 
+
+- [BlockRoute](https://bloxroute.com/)
+- [Blocksmith](https://docs.blocksmith.org/)
+- [NodeReal](https://docs.nodereal.io/reference/bsc-bundle-service-api#overview)
+- [BlockRazor](https://blockrazor.gitbook.io/blockrazor/mev-service/bsc)
+- [Puissant](https://docs.48.club/deprecated/puissant)
 
 ### Run Examples
 The steps to run example are as follows
